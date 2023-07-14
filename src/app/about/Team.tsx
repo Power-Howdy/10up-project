@@ -1,8 +1,9 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import Image from 'next/image'
-type Props = {}
 
-const Team = (props: Props) => {
+const Team = () => {
+  const [members, setMembers] = useState([]);
+
   return (
     <div className='w-full'>
         <div className='w-full relative'>

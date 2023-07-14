@@ -1,9 +1,7 @@
-import React, { useState, useEffect } from 'react'
 import Image from "next/image"
 type Props = {}
 
 const Boundary = (props: Props) => {
-    const [members, setMembers] = useState([]);
 
     return (
         <div className='my-10 flex'>
