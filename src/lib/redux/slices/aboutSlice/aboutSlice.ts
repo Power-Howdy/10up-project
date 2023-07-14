@@ -5,19 +5,19 @@ import { createSlice, type PayloadAction } from '@reduxjs/toolkit'
 
 const initialState: AboutSliceState[] = [
     {
-        imageUrl: "https://10up.com/wp-content/themes/10up-sept2016/assets/img/icon-design.png",
+        imageUrl: "https://10up.com/wp-content/themes/10up-sept2016/assets/img/icon-strategy.png",
         title: "Strategy",
         content: "Should I build an app or a responsive website? Am I maximizing my ad revenue? Why don’t my visitors click “sign up”? How many 10uppers does it take to screw in a website? We don’t just build: we figure out the plan."
     },
     {
       imageUrl: "https://10up.com/wp-content/themes/10up-sept2016/assets/img/icon-design.png",
-      title: "Strategy",
-      content: "Should I build an app or a responsive website? Am I maximizing my ad revenue? Why don’t my visitors click “sign up”? How many 10uppers does it take to screw in a website? We don’t just build: we figure out the plan."
+      title: "Design",
+      content: "Inspiring design brings the functional and the beautiful; a delightful blend of art and engineering. We focus on the audience whimsy and relationship between brand and consumer, delivering design that works."
     },
     {
-      imageUrl: "https://10up.com/wp-content/themes/10up-sept2016/assets/img/icon-design.png",
-      title: "Strategy",
-      content: "Should I build an app or a responsive website? Am I maximizing my ad revenue? Why don’t my visitors click “sign up”? How many 10uppers does it take to screw in a website? We don’t just build: we figure out the plan."
+      imageUrl: "https://10up.com/wp-content/themes/10up-sept2016/assets/img/icon-engineering.png",
+      title: "Engineering",
+      content: "Please. Look under the hood. Our team of sought after international speakers provides expert code review for enterprise platforms like WordPress.com VIP. Because the best website you have is the one that’s up."
     }
 ]
 
