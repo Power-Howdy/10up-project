@@ -1,0 +1,1717 @@
+members = [
+{
+"name": John Eckman,
+"role": Chief Executive Officer,
+"avatar": https://10up.com/uploads/2019/11/jeckman-600x600.png
+},
+
+{
+"name": Ajaka Roth,
+"role": Vice President of People and Culture,
+"avatar": https://10up.com/uploads/2021/09/Ajaka-Roth_headshot-600x600.jpg
+},
+
+{
+"name": Brad Miller,
+"role": Vice President, New Client Strategy,
+"avatar": https://10up.com/uploads/2023/04/cropped-brad-headshot-scaled-2-600x600.jpg
+},
+
+{
+"name": Chuck Bartlett,
+"role": Chief Financial Officer,
+"avatar": https://10up.com/uploads/2020/04/CHB-headshot-600x600.jpg
+},
+
+{
+"name": Gabe Karp,
+"role": Director, Head of Europe,
+"avatar": https://10up.com/uploads/2017/11/Gabe-Karp_avatar_1511804624-600x600.jpg
+},
+
+{
+"name": Katie Methe,
+"role": Vice President, Client Delivery,
+"avatar": https://10up.com/uploads/2017/12/Katie-Methe_avatar_1513011476-600x600.jpg
+},
+
+{
+"name": Lily Bonney,
+"role": Vice President of Client Delivery, EMEA,
+"avatar": https://10up.com/uploads/2017/08/Lily-Bonney_avatar_1503175897-600x600.jpg
+},
+
+{
+"name": Martha Schmidt,
+"role": Vice President, Account Strategy,
+"avatar": https://10up.com/uploads/2016/10/Martha-Schmidt_avatar_1475874441-600x600.jpg
+},
+
+{
+"name": Mike Jordan,
+"role": Vice President, Engineering,
+"avatar": https://10up.com/uploads/2015/05/MikeJordanNew-600x600.jpg
+},
+
+{
+"name": Phil Crumm,
+"role": Senior Vice President, Marketing & Growth,
+"avatar": https://10up.com/uploads/2016/12/philcrumm-600x600-600x600.jpg
+},
+
+{
+"name": Sarah Williams,
+"role": Senior Vice President, Client Delivery,
+"avatar": https://10up.com/uploads/2022/08/cropped-SWilliams_cropped_2022-600x600.jpg
+},
+
+{
+"name": Steve Fisher,
+"role": Vice President of Experience Design,
+"avatar": https://10up.com/uploads/2023/01/Image-768x768-1-600x600.jpeg
+},
+
+{
+"name": Taylor Lovett,
+"role": Senior Vice President, Engineering,
+"avatar": https://10up.com/uploads/2014/05/TLovett-600x600.jpg
+},
+
+{
+"name": Vasken Hauri,
+"role": Vice President, Platforms & Systems,
+"avatar": https://10up.com/uploads/2016/11/VHauri-600x600-600x600.jpg
+},
+
+{
+"name": Adam Edgerton,
+"role": Program Director,
+"avatar": https://10up.com/uploads/2017/11/Adam-Edgerton_avatar_1511829240-600x600.jpg
+},
+
+{
+"name": Al Waranius,
+"role": Director of Resourcing,
+"avatar": https://10up.com/uploads/2016/10/Alex-Waranius_avatar_1475872958.jpg
+},
+
+{
+"name": Ashley Block,
+"role": Director of Account Strategy,
+"avatar": https://10up.com/uploads/2019/10/Ash-Headshot-bw-600x600.jpg
+},
+
+{
+"name": Brent van Rensburg,
+"role": Vice President of Engineering, EMEA,
+"avatar": https://10up.com/uploads/2014/10/Brent-bright-600x600.jpg
+},
+
+{
+"name": Brian Bourn,
+"role": Director of New Client Strategy,
+"avatar": https://10up.com/uploads/2019/02/BrianBourn-BW-800x800-1-600x600.jpg
+},
+
+{
+"name": Brittany Jackson,
+"role": Director of Client Delivery,
+"avatar": https://10up.com/uploads/2016/06/Brittany-Jackson_avatar_1465844955-600x600.jpg
+},
+
+{
+"name": Christian Chung,
+"role": Director of Engineering,
+"avatar": https://10up.com/uploads/2017/07/FullSizeRender2-e1499791877409-600x600.jpg
+},
+
+{
+"name": David Green,
+"role": Director of Publisher Revenue,
+"avatar": https://10up.com/uploads/2015/11/David-Green-v2-600x600.jpg
+},
+
+{
+"name": Eric Atkinson,
+"role": Director of User Experience,
+"avatar": https://10up.com/uploads/2023/05/eric.atkinson-bio-1-600x600.jpeg
+},
+
+{
+"name": Ivan Lopez,
+"role": Director of Engineering,
+"avatar": https://10up.com/uploads/2014/05/ILopez-600x600.jpg
+},
+
+{
+"name": Jason Clarke,
+"role": Director, New Client Strategy,
+"avatar": https://10up.com/uploads/2018/05/Jason-Clarke_avatar_1526492567-600x600.jpg
+},
+
+{
+"name": Jeff Paul,
+"role": Director of Open Source Initiatives,
+"avatar": https://10up.com/uploads/2019/02/JeffreyPaul_headshot-600x600.jpg
+},
+
+{
+"name": Joe Snell,
+"role": Director of Front End Engineering.,
+"avatar": https://10up.com/uploads/2016/09/Joe-Snell_avatar_1474916144-600x600.jpg
+},
+
+{
+"name": Lea Alcantara,
+"role": Director of Visual Design,
+"avatar": https://10up.com/uploads/2019/08/web_lea_full-600x600.jpg
+},
+
+{
+"name": Marci Miranda,
+"role": Director of Client Delivery,
+"avatar": https://10up.com/uploads/2017/10/Headshot_Marci-Miranda-1-600x600.jpg
+},
+
+{
+"name": Meghan Gencev,
+"role": Director of Account Strategy,
+"avatar": https://10up.com/uploads/2022/05/meghan-headshot-bw-600x600.jpg
+},
+
+{
+"name": Mollie Pugh,
+"role": Director of New Client Strategy,
+"avatar": https://10up.com/uploads/2020/04/mollie-pugh-profile-600x600.jpg
+},
+
+{
+"name": Nicholas Andre,
+"role": Director of JavaScript Engineering,
+"avatar": https://10up.com/uploads/2022/06/nicholas-andre-600x600-1.jpg
+},
+
+{
+"name": Patrick Ahl,
+"role": Director of Audience Strategy,
+"avatar": https://10up.com/uploads/2019/05/Patrick-Ahl-Headshot-600x600.jpg
+},
+
+{
+"name": Robert Pearce,
+"role": Director of Account Strategy,
+"avatar": https://10up.com/uploads/2016/11/Robert-Pearce_800x800-600x600.jpg
+},
+
+{
+"name": Sam Sidler,
+"role": Director of Account Strategy,
+"avatar": https://10up.com/uploads/2021/02/Sam-Sidler-Bio-Photo-600x600.jpg
+},
+
+{
+"name": Shannon Swenson,
+"role": Director of Client Strategy,
+"avatar": https://10up.com/uploads/2021/09/ShannonSwenson-600x600.jpg
+},
+
+{
+"name": Steve Meyers,
+"role": Director of Client Growth Strategy,
+"avatar": https://10up.com/uploads/2021/02/SteveM-600x600.jpg
+},
+
+{
+"name": Teal Hutton,
+"role": Director of Client Delivery,
+"avatar": https://10up.com/uploads/2020/02/tealhutton-10up-600x600.jpg
+},
+
+{
+"name": Thomas King,
+"role": Director of Account Strategy,
+"avatar": https://10up.com/uploads/2021/05/IMG_6153-600x600.jpg
+},
+
+{
+"name": Thorsten Ott,
+"role": Director of Managed Services,
+"avatar": https://10up.com/uploads/2014/05/TOtt-600x600.jpg
+},
+
+{
+"name": Tyler Cherpak,
+"role": Director of Engineering,
+"avatar": https://10up.com/uploads/2016/12/Tyler-Cherpak_avatar_1481132902-600x580.jpg
+},
+
+{
+"name": Will Davis,
+"role": Director, New Client Strategy,
+"avatar": https://secure.gravatar.com/avatar/fa77596b91ecf059b207e44eea7ea764?s=600&d=mm&r=pg
+},
+
+{
+"name": Amy Grace Wells,
+"role": Associate Director of Content Design,
+"avatar": https://10up.com/uploads/2019/10/amy.6-600x600.jpg
+},
+
+{
+"name": Brandi Morgan,
+"role": Associate Director of Client Delivery,
+"avatar": https://secure.gravatar.com/avatar/29c94062808e8fd9e52711ae8dc73804?s=600&d=mm&r=pg
+},
+
+{
+"name": Christina Siegler,
+"role": Associate Director of Client Delivery,
+"avatar": https://10up.com/uploads/2015/01/Christina_Siegler.jpg
+},
+
+{
+"name": Cole Geissinger,
+"role": Associate Director of Engineering,
+"avatar": https://10up.com/uploads/2020/04/cole-2-600x600.jpg
+},
+
+{
+"name": Daine Mawer,
+"role": Associate Director of Front End Engineering, EMEA,
+"avatar": https://10up.com/uploads/2017/10/Daine-Mawer_avatar_1509475651-600x600.jpg
+},
+
+{
+"name": Dana Richmond,
+"role": Associate Director, Managed Services Client Delivery,
+"avatar": https://10up.com/uploads/2014/05/DRichmond-600x600.jpg
+},
+
+{
+"name": Darin Kotter,
+"role": Associate Director, Open Source Engineering,
+"avatar": https://10up.com/uploads/2014/05/DKotter-600x600.jpg
+},
+
+{
+"name": Darshan Sawardekar,
+"role": Associate Director of Engineering,
+"avatar": https://10up.com/uploads/2014/09/darshan-bw.jpg
+},
+
+{
+"name": Devin Leggett,
+"role": Associate Director, Front End Engineering,
+"avatar": https://10up.com/uploads/2019/08/dl-600x600.jpg
+},
+
+{
+"name": Dianne Gillespie,
+"role": Associate Director of Client Delivery,
+"avatar": https://10up.com/uploads/2018/09/Dianne-Gillespie_avatar_1536874399-600x600.jpg
+},
+
+{
+"name": Dustin Rue,
+"role": Associate Director, Managed Services Engineering,
+"avatar": https://10up.com/uploads/2017/04/Dustin-Rue_avatar_1492442835-523x600.jpg
+},
+
+{
+"name": Elena Bargo,
+"role": Associate Director of Client Strategy,
+"avatar": https://10up.com/uploads/2019/08/bargo-600x600.jpg
+},
+
+{
+"name": Elliott Stocks,
+"role": Associate Director of Engineering, EMEA,
+"avatar": https://10up.com/uploads/2022/09/elliott-stocks-2022-grey-scale-600x600.jpg
+},
+
+{
+"name": Emily Clarke,
+"role": Associate Director of Client Delivery,
+"avatar": https://secure.gravatar.com/avatar/1c19a7e290ec809b61d7ca407fa306c1?s=600&d=mm&r=pg
+},
+
+{
+"name": Evan Mattson,
+"role": Associate Director of Engineering,
+"avatar": https://10up.com/uploads/2018/12/Evan-Mattson_avatar_1544216629-600x600.jpg
+},
+
+{
+"name": Fabian Kaegy,
+"role": Associate Director of Editorial Engineering,
+"avatar": https://10up.com/uploads/2020/05/10up-Bio-Picture-Fabian-Kägy-600x600.jpg
+},
+
+{
+"name": Jay Moore,
+"role": Associate Director Account Operations,
+"avatar": https://10up.com/uploads/2020/01/JayMoore_ProfilePic-600x600.jpg
+},
+
+{
+"name": Joe McGill,
+"role": Associate Director of Engineering,
+"avatar": https://10up.com/uploads/2023/02/joe_headshot-300x300-1.jpg
+},
+
+{
+"name": John Watkins,
+"role": Associate Director of Engineering,
+"avatar": https://10up.com/uploads/2019/05/john-watkins-professional-1-600x600.jpg
+},
+
+{
+"name": José Esteves,
+"role": Associate Director of Experience Design,
+"avatar": https://10up.com/uploads/2022/12/je_bw-768x768-1-600x600.jpg
+},
+
+{
+"name": Marta Bukowska,
+"role": Associate Director of Client Delivery,
+"avatar": https://10up.com/uploads/2020/10/Marta-Headshot-600x600.jpg
+},
+
+{
+"name": Matthew Bullock,
+"role": Associate Director of New Client Strategy,
+"avatar": https://10up.com/uploads/2022/09/Matt-Headshot-768x768-1-600x600.jpeg
+},
+
+{
+"name": Ricky Lee Whittemore,
+"role": Associate Director of Engineering,
+"avatar": https://10up.com/uploads/2014/12/ricky-lee-whittemore-avatar-600x600.jpg
+},
+
+{
+"name": Ryan Abeling,
+"role": Associate Director of Client Delivery,
+"avatar": https://10up.com/uploads/2017/03/Ryan-Abeling_avatar_1489161914.jpg
+},
+
+{
+"name": Simon Champion-MacPherson,
+"role": Associate Director of Client Delivery,
+"avatar": https://10up.com/uploads/2021/01/SCM-600x600.jpg
+},
+
+{
+"name": Yoni Balkind,
+"role": Associate Director of New Client Strategy,
+"avatar": https://10up.com/uploads/2023/05/yoni-768x768-1-600x600.jpg
+},
+
+{
+"name": Ankit Gupta,
+"role": Lead Quality Assurance Specialist,
+"avatar": https://10up.com/uploads/2021/02/Ankit--scaled-600x600.jpg
+},
+
+{
+"name": Anton Vanyukov,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2022/09/cropped-anton-about-592x600.jpeg
+},
+
+{
+"name": Antonio Laguna,
+"role": Lead Front End Engineer,
+"avatar": https://10up.com/uploads/2021/08/Laguna-Matías-Antonio-10up-600x600.jpg
+},
+
+{
+"name": Asvin Balloo,
+"role": Lead Front End Engineer,
+"avatar": https://10up.com/uploads/2017/08/Asvin-Balloo_avatar_1503174506-600x600.jpg
+},
+
+{
+"name": Barry Ceelen,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2018/05/Barry-Ceelen_avatar_1526493363-600x600.jpg
+},
+
+{
+"name": Bjorn Holine,
+"role": Lead Web Engineer, Meta Platforms,
+"avatar": https://10up.com/uploads/2018/08/Bjorn-Holine_avatar_1533326174-600x600.jpg
+},
+
+{
+"name": Brooke Wilds,
+"role": Senior Team Lead,
+"avatar": https://10up.com/uploads/2019/12/Brooke_2-600x600.jpg
+},
+
+{
+"name": Cameron Terry,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2018/06/Cameron-Terry_avatar_1530043605-600x600.jpg
+},
+
+{
+"name": Chelsea Skovgaard,
+"role": Lead Front End Engineer,
+"avatar": https://10up.com/uploads/2020/02/ProfessionalPhoto_ChelseaSkovgaard_Option1-600x600.jpg
+},
+
+{
+"name": Chris Eagle,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2021/12/XT309555-609-600x600.jpg
+},
+
+{
+"name": Craig Jadown,
+"role": Senior Team Lead (QA),
+"avatar": https://10up.com/uploads/2021/08/Craig-Jadown-600x600.jpg
+},
+
+{
+"name": Darren Cronian,
+"role": Lead QA Specialist,
+"avatar": https://10up.com/uploads/2021/02/Darren-600x600.jpg
+},
+
+{
+"name": Daryll Doyle,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2020/10/77c42fcda9b692a6ce8f9e589e2170d1-600x600.jpeg
+},
+
+{
+"name": David Doan,
+"role": Lead Account Strategist,
+"avatar": https://10up.com/uploads/2021/08/David-Doan_Headshot-600x600.jpg
+},
+
+{
+"name": Dmitry Mayorov,
+"role": Lead Front End Engineer,
+"avatar": https://10up.com/uploads/2020/10/dmitry-mayorov-600x600.jpg
+},
+
+{
+"name": Eduard Florea,
+"role": Lead Web Engineer,
+"avatar": https://secure.gravatar.com/avatar/7bdf70174825263f3828e9b5049a4762?s=600&d=mm&r=pg
+},
+
+{
+"name": Eugene Manuilov,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2014/07/eugene-manuilov-bw.jpg
+},
+
+{
+"name": Evan Esposito,
+"role": Lead UX Designer,
+"avatar": https://10up.com/uploads/2023/05/cropped-Evan-Esposito-Headshot-scaled-1-600x600.jpg
+},
+
+{
+"name": Felipe Elia,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2020/05/felipe-elia-10up-600x600.jpg
+},
+
+{
+"name": Gabriel Rose,
+"role": Lead Front End Engineer,
+"avatar": https://10up.com/uploads/2021/10/GabrielRoseHeadshot-1-600x600.jpg
+},
+
+{
+"name": Garth Gutenberg,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2022/12/Garth-Pro-768x768-1-600x600.jpg
+},
+
+{
+"name": Gary Thayer,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2018/10/Gary-Thayer_avatar_1539804298-600x600.jpg
+},
+
+{
+"name": Glynnis O’Gorman,
+"role": Lead Quality Assurance Specialist,
+"avatar": https://10up.com/uploads/2022/05/glynnis-600x600.jpg
+},
+
+{
+"name": Jacob Dubail,
+"role": Lead Front End Engineer,
+"avatar": https://10up.com/uploads/2022/05/Jacob-Dubail-600x600.jpg
+},
+
+{
+"name": Jacqui Montano,
+"role": Senior Team Lead,
+"avatar": https://10up.com/uploads/2021/02/Jacqui-Montano_headshot-600x600.jpg
+},
+
+{
+"name": James Morrison,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2018/10/James-Morrison_avatar_1539891821.jpg
+},
+
+{
+"name": Jennings Hanna,
+"role": Lead Content Designer,
+"avatar": https://10up.com/uploads/2023/05/Jennings-600x600.jpg
+},
+
+{
+"name": Jessie Johnston,
+"role": Senior Team Lead,
+"avatar": https://10up.com/uploads/2020/02/JessieJohnston10up-600x600.jpg
+},
+
+{
+"name": John Matheson,
+"role": Lead Quality Assurance Specialist,
+"avatar": https://10up.com/uploads/2021/05/John-M-600x600.jpg
+},
+
+{
+"name": Jon Christensen,
+"role": Lead Front End Engineer,
+"avatar": https://10up.com/uploads/2018/02/Jon-Christensen_avatar_1518750330-600x600.jpg
+},
+
+{
+"name": Jonee Austin,
+"role": Senior Team Lead,
+"avatar": https://secure.gravatar.com/avatar/fb33776a0de7f0509e5f15bddbe71384?s=600&d=mm&r=pg
+},
+
+{
+"name": Karine Do,
+"role": Lead Front End Engineer,
+"avatar": https://10up.com/uploads/2014/05/KarineDo-600x600.jpg
+},
+
+{
+"name": Keith Kropski,
+"role": Senior Team Lead,
+"avatar": https://secure.gravatar.com/avatar/1f9f5d9791b9f9c9e3ef71f14b13a59b?s=600&d=mm&r=pg
+},
+
+{
+"name": Kelly Thompson,
+"role": Senior UX Team Lead,
+"avatar": https://secure.gravatar.com/avatar/7ce947f32d6cfe088b9a0dcfcd38426b?s=600&d=mm&r=pg
+},
+
+{
+"name": Kristina Corbitt,
+"role": Team Lead,
+"avatar": https://10up.com/uploads/2020/10/KristinaCorbitt_Headshot_20200711-600x600.jpg
+},
+
+{
+"name": Laura Lussier,
+"role": Lead Project Manager,
+"avatar": https://10up.com/uploads/2019/10/LauraLussier_Headshot_Color-600x600.jpg
+},
+
+{
+"name": Lukas Pawlik,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2015/10/lukas-pawlik-bw-600x600.jpg
+},
+
+{
+"name": Marta Figueiredo,
+"role": Lead Account Strategist,
+"avatar": https://10up.com/uploads/2022/05/Marta-600x600.jpg
+},
+
+{
+"name": Martina Haines,
+"role": Senior Team Lead,
+"avatar": https://10up.com/uploads/2020/10/Martina-Haines-professional-photo-600x600.jpg
+},
+
+{
+"name": Max Brutus,
+"role": Team Lead (QA),
+"avatar": https://10up.com/uploads/2021/05/Black-White-editBWBLUR-600x600.jpg
+},
+
+{
+"name": Michael Phillips,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2014/06/michael-phillips-600x600.jpg
+},
+
+{
+"name": Nickolas Kola,
+"role": Lead User Experience Designer,
+"avatar": https://10up.com/uploads/2021/10/Nick--600x600.jpg
+},
+
+{
+"name": Nicolas Knight,
+"role": Lead User Experience Designer,
+"avatar": https://10up.com/uploads/2020/10/Nicolas-Headshot-600x600.jpg
+},
+
+{
+"name": Nikki Jones,
+"role": Lead Front End Engineer,
+"avatar": https://10up.com/uploads/2022/05/NikkiJonesHeadshot-600x600.jpg
+},
+
+{
+"name": Peter Sorensen,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2017/07/PeterHeadshot-600x600.jpg
+},
+
+{
+"name": Peter Wilson,
+"role": Lead Engineer,
+"avatar": https://10up.com/uploads/2022/05/Pete-Wilson-600x600.jpg
+},
+
+{
+"name": Rachael Cortellessa,
+"role": Lead UX Designer,
+"avatar": https://10up.com/uploads/2022/12/cropped-IMG_4990-1-768x1004-1-600x600.jpg
+},
+
+{
+"name": Ravi Chandra,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2017/07/Ravi-Chandra_avatar_1499832711-600x600.jpg
+},
+
+{
+"name": Sarah Wagner,
+"role": Lead Ad Revenue Strategist,
+"avatar": https://10up.com/uploads/2021/08/SarahWagner_1200x800-600x600.jpg
+},
+
+{
+"name": Sergio Santos,
+"role": Lead Web Engineer,
+"avatar": https://secure.gravatar.com/avatar/2dfb9bb49210516318bf479101e090fd?s=600&d=mm&r=pg
+},
+
+{
+"name": Simon Dowdles,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2018/02/Simon-Dowdles_avatar_1518747106-600x600.jpg
+},
+
+{
+"name": Stephanie Campbell,
+"role": Lead Visual Designer,
+"avatar": https://10up.com/uploads/2019/04/steph-600x600.jpg
+},
+
+{
+"name": Stephanie Walters,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2018/08/Stephanie-Walters_avatar_1534451086-600x600.png
+},
+
+{
+"name": Sudar Muthu,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2015/01/sudar-muthu-600x600.jpg
+},
+
+{
+"name": Tom Hummer,
+"role": Senior Team Lead,
+"avatar": https://10up.com/uploads/2017/08/Tom-Hummer_avatar_1503175774-600x600.jpg
+},
+
+{
+"name": Tyler Bailey,
+"role": Lead Web Engineer,
+"avatar": https://10up.com/uploads/2019/04/professional-headshot-600x600.jpg
+},
+
+{
+"name": Ajay Maurya,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2021/02/ajay-maurya-600x600.jpg
+},
+
+{
+"name": Alex Dimitrov,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2021/10/AlexD-600x600.jpg
+},
+
+{
+"name": Ames Plant,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2021/01/Ames-600x600.jpg
+},
+
+{
+"name": Andy Killworth,
+"role": Senior Audience Growth Strategist,
+"avatar": https://10up.com/uploads/2023/05/andy-killworth-768x831-1-600x600.jpg
+},
+
+{
+"name": Ankit Gade,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2022/09/cropped-IMG20220511132333-min.jpeg
+},
+
+{
+"name": Arafat Zahan,
+"role": Senior JavaScript React: Engineer,
+"avatar": https://10up.com/uploads/2021/09/Arafat-600x600.jpg
+},
+
+{
+"name": Barney Jeffries,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2021/05/Barney-600x600.jpg
+},
+
+{
+"name": Ben Keith,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2020/10/ben-keith-headshot-600x600.jpg
+},
+
+{
+"name": Bennet Sundlie,
+"role": Senior Project Manager,
+"avatar": https://10up.com/uploads/2022/08/Bennet-768x768-1-600x600.jpeg
+},
+
+{
+"name": Bethany Chobanian Lang,
+"role": Senior Project Manager,
+"avatar": https://10up.com/uploads/2021/02/Bethany--600x600.jpg
+},
+
+{
+"name": Brian Rieger,
+"role": Senior Audience Growth Strategist,
+"avatar": https://10up.com/uploads/2021/10/Brian-R-600x600.jpg
+},
+
+{
+"name": Bridgette Depay,
+"role": Senior Project Manager,
+"avatar": https://10up.com/uploads/2021/09/BD-Professional-Photo-Option-1-600x600.jpg
+},
+
+{
+"name": Brooke Campbell,
+"role": Senior Visual Designer,
+"avatar": https://10up.com/uploads/2021/08/campbell_04-600x600.jpg
+},
+
+{
+"name": Cassi Goozen,
+"role": Senior Visual Designer,
+"avatar": https://10up.com/uploads/2020/02/CassiG_Headshot-10up-600x600.jpg
+},
+
+{
+"name": Chandra Patel,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2023/02/cropped-profile-picture-2.jpg
+},
+
+{
+"name": Chris Allen,
+"role": Team Lead,
+"avatar": https://10up.com/uploads/2018/01/IMG_6490-600x600.jpg
+},
+
+{
+"name": Clayton Collie,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2021/08/Clayton-Collie-600x600.jpg
+},
+
+{
+"name": Corey Weddington,
+"role": Senior Account Strategist,
+"avatar": https://10up.com/uploads/2020/08/profile-picture-bw-600x600.jpg
+},
+
+{
+"name": Curtis Loisel,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2017/08/Curtis-Loisel_avatar_1503176156-600x600.jpg
+},
+
+{
+"name": Daniel Jackson,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2023/06/cropped-professional-pic-737x1024-1-600x600.webp
+},
+
+{
+"name": David Chandra,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2018/05/David-Chandra_avatar_1526494188-600x600.jpg
+},
+
+{
+"name": Delfina Hoxha,
+"role": Senior Content Designer,
+"avatar": https://10up.com/uploads/2022/05/Delfina-Hoxh-600x600.jpg
+},
+
+{
+"name": Dhanendran Rajagopal,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2021/02/Dhanendran-Photo-2-600x600.jpg
+},
+
+{
+"name": Eduardo Campana,
+"role": Senior JavaScript Engineer: React,
+"avatar": https://10up.com/uploads/2022/09/cropped-eduardo-600x600.jpeg
+},
+
+{
+"name": Felicity Hollis,
+"role": Team Lead,
+"avatar": https://10up.com/uploads/2020/10/Screenshot_20200918-162929-600x600.jpg
+},
+
+{
+"name": Giorgos Sarigiannidis,
+"role": Senior Web Engineer,
+"avatar": https://secure.gravatar.com/avatar/a330fa9c61e74135eca92d8d20fa3094?s=600&d=mm&r=pg
+},
+
+{
+"name": Hannah Mussey,
+"role": Senior Project Manager,
+"avatar": https://10up.com/uploads/2023/05/cropped-imageedit_1_7325785899.png
+},
+
+{
+"name": Harshal Kadu,
+"role": Senior Quality Assurance Specialist,
+"avatar": https://10up.com/uploads/2022/10/cropped-harshal.jpeg
+},
+
+{
+"name": Hayley Belanger,
+"role": Senior Project Manager,
+"avatar": https://10up.com/uploads/2018/04/HAYLEY--600x600.jpg
+},
+
+{
+"name": Hugo Solar,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2021/02/Hugo_Headshoted2-600x600.jpg
+},
+
+{
+"name": Hussain Thajutheen,
+"role": Senior JavaScript Engineer,
+"avatar": https://10up.com/uploads/2021/12/hussain-profile-pic-600x600.jpg
+},
+
+{
+"name": Ian Del Giudice,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2019/04/ian-portrait-1-600x600.jpg
+},
+
+{
+"name": Ivan Ivanic,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2021/09/ivan-ivanic-600x600.jpg
+},
+
+{
+"name": Jacob Peattie,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2021/02/Jacob-600x600.jpg
+},
+
+{
+"name": James Styles,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2021/02/JamesStyles-bio-photo-professional-1-600x600.jpg
+},
+
+{
+"name": Jason Wong,
+"role": Senior Project Manager,
+"avatar": https://10up.com/uploads/2022/10/cropped-JW-headshot-front-square-768x768-1-600x600.jpeg
+},
+
+{
+"name": Jeffrey Carandang,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2020/10/Jeffrey-600x600.jpg
+},
+
+{
+"name": Jenny Arundel,
+"role": Senior Account Strategist,
+"avatar": https://10up.com/uploads/2023/06/DSC00957-copy.jpg
+},
+
+{
+"name": Jillian Breton,
+"role": Senior Project Manager,
+"avatar": https://10up.com/uploads/2022/09/JBreton_Headshot2-600x600.jpeg
+},
+
+{
+"name": Joseph Grainger,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2018/08/Joseph-Grainger_avatar_1535752969-600x600.jpg
+},
+
+{
+"name": Joshua Abenazer,
+"role": Senior Web Engineer,
+"avatar": https://secure.gravatar.com/avatar/57981df82b3d76cbe1feb0aebb36fcb1?s=600&d=mm&r=pg
+},
+
+{
+"name": Jozsef Kozo,
+"role": Senior Systems Engineer,
+"avatar": https://10up.com/uploads/2018/01/P1010587-600x600.jpg
+},
+
+{
+"name": Julian Weiland,
+"role": Senior JavaScript Engineer,
+"avatar": https://10up.com/uploads/2022/12/cropped-1668366769154-01-768x748-1.jpeg
+},
+
+{
+"name": Junaid Bhura,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2020/02/junaid-600x600.jpg
+},
+
+{
+"name": Karthik Thayyil,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2022/05/Karthik-600x600.jpg
+},
+
+{
+"name": Kathleen Romania,
+"role": Senior Account Strategist,
+"avatar": https://10up.com/uploads/2021/02/Kathleen-600x600.jpg
+},
+
+{
+"name": Katie Nelson,
+"role": Senior Project Manager,
+"avatar": https://10up.com/uploads/2018/05/Katie-Nelson_avatar_1526492121-600x600.jpg
+},
+
+{
+"name": Kayta Gentry,
+"role": Senior Project Manager,
+"avatar": https://10up.com/uploads/2022/08/Kayta-Gentry-731x1024-2-600x600.jpeg
+},
+
+{
+"name": Kirtan Gajjar,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2022/09/Kirtan-Gajjar.jpeg
+},
+
+{
+"name": Konstantinos Galanakis,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2023/02/cropped-DIG_5938-707x1024-1-600x600.jpg
+},
+
+{
+"name": Kristin McMurray,
+"role": Team Lead,
+"avatar": https://10up.com/uploads/2021/09/Kristin-600x600.jpg
+},
+
+{
+"name": Lee Brannan,
+"role": Senior QA Specialist,
+"avatar": https://10up.com/uploads/2021/05/Lee-Brannan-Professional-600x600.jpg
+},
+
+{
+"name": Lina Wiezkowiak,
+"role": Senior Account Strategist,
+"avatar": https://10up.com/uploads/2018/01/LWProfile--600x600.jpg
+},
+
+{
+"name": Liz Miller,
+"role": Team Lead,
+"avatar": https://10up.com/uploads/2016/09/Liz-Miller_avatar_1473961744-600x600.jpg
+},
+
+{
+"name": Luca Ricci,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2021/02/Luca-Ricci-Professional-Picture-600x600.jpg
+},
+
+{
+"name": Lucy Tomas,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2015/11/Lucy-Tomas-600x600.jpg
+},
+
+{
+"name": Luiz Nogueira,
+"role": Senior Javascript Engineer,
+"avatar": https://10up.com/uploads/2021/12/Professional_Photo-600x600.jpg
+},
+
+{
+"name": Madison Kevorkian,
+"role": Senior Project Manager,
+"avatar": https://10up.com/uploads/2021/05/Madison_Kevorkian-600x600.jpg
+},
+
+{
+"name": Marco Vega,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2021/09/Marco-600x600.jpg
+},
+
+{
+"name": Mehul Gohil,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2021/12/mehul-gohil-600x600.jpg
+},
+
+{
+"name": Michael Geheren,
+"role": Team Lead,
+"avatar": https://10up.com/uploads/2021/09/Michael-G-600x600.jpg
+},
+
+{
+"name": Michael Sumner,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2023/03/I2A7314-sq-600x600.jpg
+},
+
+{
+"name": Miguel Estrada,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2022/05/Miguel_Estrada-headshot-600x600.jpg
+},
+
+{
+"name": Mukesh Panchal,
+"role": Senior Web Engineer,
+"avatar": https://secure.gravatar.com/avatar/6c911921c27a6d2e942662f3f6f86ded?s=600&d=mm&r=pg
+},
+
+{
+"name": Nahid Mohit,
+"role": Senior JavaScript Engineer,
+"avatar": https://10up.com/uploads/2022/08/cropped-nahid-professional-1-768x1024-1-600x600.jpeg
+},
+
+{
+"name": Nathalie Gavet,
+"role": Senior Project Manager,
+"avatar": https://10up.com/uploads/2021/02/Nathalie-600x600.jpg
+},
+
+{
+"name": Nathan Conley,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2023/02/nate-conley-headshot-768x737-1-600x600.jpg
+},
+
+{
+"name": Neil Coetzer,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2021/02/Neil-600x600.jpg
+},
+
+{
+"name": Oona Vaisanen,
+"role": Senior Client Strategist,
+"avatar": https://10up.com/uploads/2019/05/Oona-Vaisanen-Headshot-600x600.jpg
+},
+
+{
+"name": Oscar Sanchez,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2018/08/Oscar-Sanchez_avatar_1533932910.jpeg
+},
+
+{
+"name": Pablo Amato,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2021/02/Pablo-Amato-profile-600x600.jpg
+},
+
+{
+"name": Pablo Marti Cordero,
+"role": Senior Systems Engineer,
+"avatar": https://10up.com/uploads/2021/08/Professional-Headshot-pablo-600x600.jpg
+},
+
+{
+"name": Pete Nelson,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2021/07/pete-sept-2019-grey-600x600.jpg
+},
+
+{
+"name": Preston Davies,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2023/05/preston_davies_headshot-768x768-1-600x600.jpg
+},
+
+{
+"name": Preyash Patel,
+"role": Senior Project Manager,
+"avatar": https://10up.com/uploads/2020/10/preyash-600x600.jpg
+},
+
+{
+"name": Rahul Prajapati,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2021/10/rahul-600x600.jpg
+},
+
+{
+"name": Ravinder Kumar,
+"role": Senior Web Engineer,
+"avatar": https://secure.gravatar.com/avatar/309ef9453374f4da64b41f72e834c27a?s=600&d=mm&r=pg
+},
+
+{
+"name": Rich Flaherty,
+"role": Senior Audience Growth Strategist,
+"avatar": https://10up.com/uploads/2022/08/cropped-rich-headshot-768x1024-1-600x600.jpeg
+},
+
+{
+"name": Ritesh Patel,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2016/08/Ritesh-Patel_avatar_1470856792-600x600.jpg
+},
+
+{
+"name": Sanket Parmar,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2020/01/Sanket-scaled-600x600.jpg
+},
+
+{
+"name": Sean Jessen,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2023/05/cropped-Sean-Jessen-Profile-photo-757x1024-1-600x600.jpeg
+},
+
+{
+"name": Seth Mills-Cannon,
+"role": Team Lead, Audience and Revenue,
+"avatar": https://10up.com/uploads/2020/02/Seth-10up-600x600.jpg
+},
+
+{
+"name": Severine Pozzo,
+"role": Senior QA Specialist,
+"avatar": https://10up.com/uploads/2021/02/Severine-600x600.jpg
+},
+
+{
+"name": Shakir Ali,
+"role": Senior Systems Engineer,
+"avatar": https://10up.com/uploads/2016/01/shakir-600x600.jpg
+},
+
+{
+"name": Shannon Fisher,
+"role": Senior Content Designer,
+"avatar": https://10up.com/uploads/2023/05/cropped-headshot-768x960-1-600x600.jpg
+},
+
+{
+"name": Shannon Fuller,
+"role": Team Lead,
+"avatar": https://10up.com/uploads/2021/02/SFuller_Headshot1-600x600.jpg
+},
+
+{
+"name": Shazahan Kabir,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2021/05/photo-website-600x600.jpg
+},
+
+{
+"name": Siddharth Thevaril,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2021/09/Sid-600x600.jpg
+},
+
+{
+"name": Sonali Desai,
+"role": Senior Quality Assurance Specialist,
+"avatar": https://10up.com/uploads/2022/05/Sonali-600x600.jpg
+},
+
+{
+"name": Sudip Dadhaniya,
+"role": Senior Quality Assurance Specialist,
+"avatar": https://10up.com/uploads/2021/10/Sudip-1-600x600.jpg
+},
+
+{
+"name": Thrijith Thankachan,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2020/10/IMG_20190210_134542_Bokeh-600x600.jpg
+},
+
+{
+"name": Tina Macko,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2019/08/Tina-Macko-Bio-600x600.jpg
+},
+
+{
+"name": Vikram Moparthy,
+"role": Senior Project Manager,
+"avatar": https://10up.com/uploads/2021/08/Vikram-Moparthy-600x600.jpg
+},
+
+{
+"name": Will Howat-Comandré,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2020/10/WillHHeadshot-600x600.jpg
+},
+
+{
+"name": Xavi Smith,
+"role": Senior Front End Engineer,
+"avatar": https://10up.com/uploads/2022/09/39960D14-10B9-43B0-8876-3E7D4844A7DA-600x600.jpeg
+},
+
+{
+"name": Adam Dunnage,
+"role": Support Specialist,
+"avatar": https://10up.com/uploads/2021/10/AdamD-600x600.jpg
+},
+
+{
+"name": Akshit Sethi,
+"role": Senior Web Engineer,
+"avatar": https://10up.com/uploads/2022/05/Akshit-600x600.jpg
+},
+
+{
+"name": Alejandro Perez,
+"role": Front End Engineer,
+"avatar": https://10up.com/uploads/2021/05/IMG_20210420_135147-600x600.jpg
+},
+
+{
+"name": Alix Blevens,
+"role": Project Manager,
+"avatar": https://10up.com/uploads/2021/09/Alix-B-600x600.jpg
+},
+
+{
+"name": Amy Zahensky,
+"role": Account Strategist,
+"avatar": https://10up.com/uploads/2023/01/cropped-5L1A3462_CW-1-min-768x590-1.jpg
+},
+
+{
+"name": Anjula Hettige,
+"role": Project Manager,
+"avatar": https://10up.com/uploads/2021/08/anjula-600x600.jpg
+},
+
+{
+"name": Annie Gieser,
+"role": Content Marketer,
+"avatar": https://10up.com/uploads/2022/09/Annie-768x768-1-600x600.jpeg
+},
+
+{
+"name": Burhan Nasir,
+"role": Web Engineer,
+"avatar": https://10up.com/uploads/2022/05/Burhan-600x600.jpg
+},
+
+{
+"name": Cayman Wade,
+"role": Project Coordinator,
+"avatar": https://10up.com/uploads/2022/12/cayman-768x1024-1-600x600.jpg
+},
+
+{
+"name": Chase Livingston,
+"role": Systems Engineering Program Manager,
+"avatar": https://10up.com/uploads/2021/09/Chase-Livingston-600x600.jpg
+},
+
+{
+"name": Colin Swinney,
+"role": Front End Engineer,
+"avatar": https://10up.com/uploads/2022/10/cropped-colin-1-683x1024-1-600x600.jpeg
+},
+
+{
+"name": Dharmesh Patel,
+"role": Web Engineer,
+"avatar": https://10up.com/uploads/2021/12/me_bnw-600x600.jpg
+},
+
+{
+"name": Douglas Barahona,
+"role": Systems Engineer,
+"avatar": https://10up.com/uploads/2021/10/Douglas-600x600.jpg
+},
+
+{
+"name": Dylan Wagner,
+"role": Front End Engineer,
+"avatar": https://secure.gravatar.com/avatar/4fa6a4db372c696a34e085f2cfacf895?s=600&d=mm&r=pg
+},
+
+{
+"name": Faisal Alvi,
+"role": Web Engineer,
+"avatar": https://10up.com/uploads/2021/09/FaisalAlvi_Professional-1-600x600.jpg
+},
+
+{
+"name": Fernando Mejia,
+"role": Project Manager,
+"avatar": https://10up.com/uploads/2022/05/FernandoMejia-600x600.jpg
+},
+
+{
+"name": Frankie Bordone,
+"role": Web Engineer,
+"avatar": https://10up.com/uploads/2021/02/Frankie_Professional_Photo-600x600.jpg
+},
+
+{
+"name": Gabriel Glogoski,
+"role": Front End Engineer,
+"avatar": https://10up.com/uploads/2022/12/cropped-self-651x1024-1-600x600.jpg
+},
+
+{
+"name": Hilary Reid,
+"role": Account Strategist,
+"avatar": https://10up.com/uploads/2021/09/Hilary-600x600.jpg
+},
+
+{
+"name": Ian Fields,
+"role": Account Strategist,
+"avatar": https://10up.com/uploads/2022/12/cropped-10up-headshot-768x960-1-600x600.jpg
+},
+
+{
+"name": Jackie Kjome,
+"role": Visual Designer,
+"avatar": https://10up.com/uploads/2017/10/Jackie-Kjome_avatar_1509475286-600x600.jpg
+},
+
+{
+"name": Jayedul Kabir,
+"role": Web Engineer,
+"avatar": https://10up.com/uploads/2022/09/Jayedul-Kabir.jpeg
+},
+
+{
+"name": Jennifer Hicks,
+"role": User Experience Designer,
+"avatar": https://10up.com/uploads/2022/05/Jennifer_Hicks-600x600.jpg
+},
+
+{
+"name": Joji Langston,
+"role": Quality Assurance Specialist,
+"avatar": https://10up.com/uploads/2022/05/langston_joji_headshot-600x600.jpg
+},
+
+{
+"name": Jose Arellanes,
+"role": Front End Engineer,
+"avatar": https://10up.com/uploads/2022/12/cropped-PXL_20221030_003624345.PORTRAIT_3-scaled-1-600x600.jpg
+},
+
+{
+"name": Kelvin Balloo,
+"role": QA Specialist,
+"avatar": https://10up.com/uploads/2021/09/Kelvin-600x600.jpg
+},
+
+{
+"name": Laura Martinez,
+"role": Visual Designer,
+"avatar": https://10up.com/uploads/2021/02/Laura_professional-photo-600x600.jpg
+},
+
+{
+"name": Lester Barahona,
+"role": Systems Engineer,
+"avatar": https://10up.com/uploads/2022/05/Lester-600x600.jpg
+},
+
+{
+"name": María Anguas,
+"role": Quality Assurance Specialist,
+"avatar": https://10up.com/uploads/2022/05/María-Anguas_10up-profile-600x600.jpg
+},
+
+{
+"name": Mehidi Hassan,
+"role": Front End Engineer,
+"avatar": https://10up.com/uploads/2021/10/Mehedi-Hasan-600x600.jpg
+},
+
+{
+"name": Michaela Gallagher,
+"role": Account Strategist,
+"avatar": https://10up.com/uploads/2022/10/IMG_6113-600x600.jpg
+},
+
+{
+"name": Mohammed Razzaq,
+"role": Web Engineer,
+"avatar": https://10up.com/uploads/2022/05/Mohammed-Razzaq-600x600.jpg
+},
+
+{
+"name": Mohit Dadhich,
+"role": Quality Assurance Specialist,
+"avatar": https://10up.com/uploads/2021/12/Mohit_1-600x600.jpg
+},
+
+{
+"name": Mohsin Kamal,
+"role": Support Engineer,
+"avatar": https://10up.com/uploads/2020/08/Mohsin-600x600.jpg
+},
+
+{
+"name": Morgan Hartnett,
+"role": Visual Designer,
+"avatar": https://10up.com/uploads/2023/02/cropped-Morgan-Withee-Headshot-768x982-1-600x600.jpg
+},
+
+{
+"name": Nick Ortiz,
+"role": Front End Engineer,
+"avatar": https://10up.com/uploads/2018/06/Nick-Ortiz_avatar_1530043963-600x598.jpg
+},
+
+{
+"name": Oluwatosin Yakubu,
+"role": Support Specialist,
+"avatar": https://10up.com/uploads/2022/09/Oluwatosin-768x768-1-600x600.jpeg
+},
+
+{
+"name": Quamruz Zaman,
+"role": Web Engineer,
+"avatar": https://10up.com/uploads/2022/05/Quamruzzaman-600x600.jpg
+},
+
+{
+"name": Raquelle Fahle,
+"role": Front End Engineer,
+"avatar": https://10up.com/uploads/2020/02/Raquelle-F-site-2-600x600.jpg
+},
+
+{
+"name": Roshni Ahuja,
+"role": Web Engineer,
+"avatar": https://10up.com/uploads/2022/12/cropped-image-1-768x768-1-600x600.png
+},
+
+{
+"name": Ryan Cosimi,
+"role": Business Development Associate,
+"avatar": https://10up.com/uploads/2021/08/Ryan-Cosimi-600x600.jpg
+},
+
+{
+"name": Ryan Degnan,
+"role": Account Strategist,
+"avatar": https://10up.com/uploads/2022/05/Ryan-Degnan-BW-600x600.jpg
+},
+
+{
+"name": Sajjad Usmani,
+"role": Support Engineer,
+"avatar": https://10up.com/uploads/2017/02/Sajjad-Usmani_avatar_1486498242.jpg
+},
+
+{
+"name": Shahzaib Mushtaq,
+"role": Systems Engineer,
+"avatar": https://10up.com/uploads/2022/05/shahzaib-profile-bw-600x600.jpg
+},
+
+{
+"name": Shenan Sherwell,
+"role": Audience Growth Strategist,
+"avatar": https://10up.com/uploads/2021/09/ShenanSherwelBW-600x600.jpg
+},
+
+{
+"name": Stella Stopfer,
+"role": Project Manager,
+"avatar": https://10up.com/uploads/2023/05/StellaStopfer_BW-2-768x768-1-600x600.jpg
+},
+
+{
+"name": Sumit Bagthariya,
+"role": Quality Assurance Specialist,
+"avatar": https://10up.com/uploads/2022/08/cropped-Sumit-600x600.jpg
+},
+
+{
+"name": Trey Kane,
+"role": Front End Engineer,
+"avatar": https://10up.com/uploads/2020/10/trey_kane_headshot-600x600.jpg
+},
+
+{
+"name": Vishal Kakadiya,
+"role": Web Engineer,
+"avatar": https://10up.com/uploads/2022/12/cropped-POSE2401-1-768x888-1-600x600.jpg
+},
+
+{
+"name": Aimee Hiebert,
+"role": Recruiting Generalist,
+"avatar": https://10up.com/uploads/2021/02/DSC_0417-600x600.jpg
+},
+
+{
+"name": Alicia Remedios,
+"role": Accounts Operations Manager,
+"avatar": https://10up.com/uploads/2015/12/Alicia-Muller_800x800-600x600.jpg
+},
+
+{
+"name": Alyssa Lee,
+"role": Resourcing Coordinator,
+"avatar": https://10up.com/uploads/2022/05/Alyssa-Lee-Headshot-600x600.jpg
+},
+
+{
+"name": Ashley Hill,
+"role": Client Services Operations Specialist,
+"avatar": https://10up.com/uploads/2023/03/cropped-HillFamily-62-1-600x600.jpg
+},
+
+{
+"name": Catlin Hays,
+"role": Operations Specialist,
+"avatar": https://10up.com/uploads/2022/03/Screen-Shot-2022-03-22-at-8.47.22-AM-600x600.png
+},
+
+{
+"name": Celeste Chapman,
+"role": Senior Accountant,
+"avatar": https://10up.com/uploads/2017/07/Celeste-Chapman-2-600x600.jpg
+},
+
+{
+"name": Dena Wilkerson,
+"role": Staff Accountant,
+"avatar": https://10up.com/uploads/2021/09/Dena-Bio-600x600.jpg
+},
+
+{
+"name": Haley Wyrsch,
+"role": Executive Assistant,
+"avatar": https://10up.com/uploads/2021/09/Haley-Wyrsch-Bio-Photo-600x600.jpg
+},
+
+{
+"name": Heather Marshall,
+"role": Senior Recruiter,
+"avatar": https://10up.com/uploads/2023/02/IMG_0780-768x843-1-600x600.jpeg
+},
+
+{
+"name": Kate Grenadier,
+"role": Associate Director of Talent Acquisition,
+"avatar": https://10up.com/uploads/2019/12/Kate-G-600x600.jpg
+},
+
+{
+"name": Kathleen Gremo,
+"role": Accounting and Finance Manager,
+"avatar": https://10up.com/uploads/2021/08/Kathygremo-600x600.jpg
+},
+
+{
+"name": Mircea Enache,
+"role": Lead Technical Recruiter,
+"avatar": https://10up.com/uploads/2021/10/mircea.enache-600x600.jpg
+},
+
+{
+"name": Nelson Martins,
+"role": People Operations Specialist,
+"avatar": https://10up.com/uploads/2022/05/Nelson-600x600.jpg
+},
+
+{
+"name": Sara Vickers,
+"role": Resourcing Coordinator,
+"avatar": https://10up.com/uploads/2021/09/headshot-beleek-vickers-bw-600x600.jpg
+},
+
+{
+"name": Sara Wilson,
+"role": Client Services Operations Specialist,
+"avatar": https://10up.com/uploads/2022/08/10upHeadshot-Sara-Wilson-768x768-1-600x600.jpeg
+},
+
+{
+"name": Sarah Christathakis,
+"role": Billing Manager,
+"avatar": https://10up.com/uploads/2021/12/84E5C18A-D9E3-47C6-AA88-48E3F9FB6E61-600x600.jpg
+},
+
+{
+"name": Stephanie Stracener,
+"role": Resourcing Manager,
+"avatar": https://10up.com/uploads/2020/02/Stephanie-S-10up-600x600.jpg
+},
+
+{
+"name": Tyler Lal,
+"role": Resourcing Coordinator,
+"avatar": https://10up.com/uploads/2021/10/tylerlal-600x600.jpg
+}
+]

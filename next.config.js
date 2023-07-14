@@ -8,6 +8,12 @@ const nextConfig = {
             port: '',
             pathname: '/**/**',
           },
+          {
+            protocol: 'https',
+            hostname: '10up.com',
+            port: '',
+            pathname: '/**/**',
+          },
         ],
       },
 }
