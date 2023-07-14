@@ -25,13 +25,19 @@ const Team = () => {
             case 0:
                 setFiltered(members);
                 break;
-            case 1:
+            case 1://leadership
+                setFiltered(members.filter(member=>member.role.toLowerCase().includes('director') || member.role.toLowerCase().includes('president') || member.role.toLowerCase().includes('recruiter')));
                 break;
-            case 2:
+            case 2://strategist
+                setFiltered(members.filter(member=>member.role.toLowerCase().includes('strategist')));
                 break;
-            case 3:
+            case 3://designer
+            setFiltered(members.filter(member=>member.role.toLowerCase().includes('designer')));
+
                 break;
-            case 4:
+            case 4://engineer
+            setFiltered(members.filter(member=>member.role.toLowerCase().includes('engineer')));
+
                 break;
         }
     }, [filter, members])
@@ -50,7 +56,7 @@ const Team = () => {
             <div className='w-full bg-black px-5'>
                 <div className='text-center py-12 text-white'>
                     {
-                        filters.map(item => <button className='mx-3' key={nanoid()} onClick={() =>{
+                        filters.map(item => <button className='mx-3 hover:underline hover:underline-offset-4' key={nanoid()} onClick={() =>{
                             setFilter(filters.indexOf(item));
                         }}>{item}</button>)
                     }
