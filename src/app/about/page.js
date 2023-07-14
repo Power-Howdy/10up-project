@@ -1,8 +1,8 @@
 export default function AboutPage() {
     return (
       <>
-      <div className="text-center">
-        <h1>We make a better web with finely crafted websites and tools for content creators</h1>
+      <div className="text-center w-3/4 mx-auto mt-5">
+        <h1 className="text-3xl">We make a better web with finely crafted websites and tools for content creators</h1>
         <hr/>
         <p>
         We make the internet better with consultative creative and engineering services, innovative tools, and dependable products that take the pain out of content creation and management, in service of digital experiences that advance business and marketing objectives. We’re a group of people built to solve problems, made to create, wired to delight.</p>
