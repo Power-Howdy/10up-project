@@ -13,7 +13,7 @@ import {
 
 /* Instruments */
 import { reducer } from './rootReducer'
-import { middleware } from './middleware'
+// import { middleware } from './middleware'
 
 const configureStoreDefaultOptions: ConfigureStoreOptions = { reducer }
 
@@ -28,7 +28,7 @@ export const makeReduxStore = (
 export const reduxStore = configureStore({
   reducer,
   middleware: (getDefaultMiddleware) => {
-    return getDefaultMiddleware().concat(middleware)
+    return getDefaultMiddleware()//.concat(middleware)
   },
 })
 export const useDispatch = () => useReduxDispatch<ReduxDispatch>()

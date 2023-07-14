@@ -21,7 +21,8 @@ export const membersSlice = createSlice({
   extraReducers: (builder) => {
     builder
       .addCase(getMemberAsync.fulfilled, (state, action) => {
-        state = action.payload
+        // console.log(action.payload)
+        return action.payload
       })
   },
 })
