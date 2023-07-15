@@ -18,10 +18,9 @@ export default function BlogPage() {
     }, [dispatch]);   
   
     return (
-      <>
-        <h1>Blog page</h1>
+      <div className="mx-24">
         { blogs.map(item => <BlogComponent title={item.title} author={item.author} avatar={item.avatar} picture={item.picture} content={item.content} key={nanoid()}/>)}
-      </>
+      </div>
     )
   }
   
