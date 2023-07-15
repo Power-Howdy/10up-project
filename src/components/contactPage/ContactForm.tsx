@@ -11,7 +11,7 @@ const ContactForm = (props: Props) => {
   const handleClick = () => {alert('Submit');}
   return (
     <div className='bg-gray-200 px-64 py-12'>
-      <span>Let's TALK</span>
+      <span>Let&apos;s TALK</span>
       <div className='grid grid-cols-2'>
         <LabeledInput label='Name' placeholder='Please write your name here'/>
         <LabeledInput label='Company' placeholder=''/>

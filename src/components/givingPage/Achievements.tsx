@@ -7,7 +7,7 @@ const Achievements = (props: Props) => {
     <div className='grid grid-cols-3 gap-10 bg-gray-200 py-12 px-36'>
       <div className='bg-white'>
         <img src={"https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2021/07/wordpress-logo-300x140.png"} className='w-full bg-gray-300' alt="wordpress "/>
-        <p className='p-8'>2 of the 18 people who hold the keys to WordPress work at 10up. We've contributed thousands of patches, have 40+ credited contributors, and employ one of the 6 lead developers.</p>
+        <p className='p-8'>2 of the 18 people who hold the keys to WordPress work at 10up. We&apos;ve contributed thousands of patches, have 40+ credited contributors, and employ one of the 6 lead developers.</p>
       </div>
       <div className='bg-white'>
         <img src={"https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2021/07/vagrant-logo-300x140.png"} className='w-full bg-gray-300' alt="wordpress "/>

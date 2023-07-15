@@ -13,7 +13,7 @@ const OurLocation = () => {
       <div className='bg-slate-500 h-[300px] text-center align-middle justify-center inset-0 flex flex-col text-5xl my-5'>
         Google Map Area
       </div>
-    <div className='text-3xl italic my-12'>We're wherever you are, with 10uppers in most major cities—and everywhere in between.</div>
+    <div className='text-3xl italic my-12'>We&apos;re wherever you are, with 10uppers in most major cities—and everywhere in between.</div>
     </div>
   )
 }
