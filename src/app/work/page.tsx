@@ -1,5 +1,5 @@
 import TopBanner from "@/components/TopBanner"
-import Works from "@/components/workPage/Works"
+import Works from "@/components/workPage/Works"//as this may take some more time, let's put this off for later work
 import WorkIntro from "@/components/firstPage/WorkIntro"
 import ClientReview from "@/components/firstPage/ClientReview"
 import Prompt from "@/components/Prompt"

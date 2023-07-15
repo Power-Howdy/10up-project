@@ -1,8 +1,9 @@
+'use client'
 import VideoBackground from "@/components/firstPage/VideoBackground"
 import TextImageBlock from "@/components/TextImageBlock"
 import Tips from "@/components/careerPage/Tips"
 import Vacancy from "@/components/careerPage/Vacancy"
-import { useEffect, useState } from "react"
+import React, { useEffect, useState } from "react"
 import { nanoid } from "nanoid"
 import Benefits from "@/components/careerPage/Benefits"
 import Prompt from "@/components/Prompt"
@@ -45,14 +46,13 @@ export default function CareerPage() {
   }, [])
     return (
       <>
-        <h1>Career page</h1>
         <VideoBackground/>
         <div className="py-8">
           { focuses.map(focus => <TextImageBlock key={nanoid()} picturePosition={focus.picturePosition} picture={focus.picture} title={focus.title} content={focus.content}/>)}
         </div>
         <Tips/>
         <Benefits/>
-        <div className="py-8 grid grid-cols-3 gap-8">
+        <div className="py-8 grid grid-cols-3 gap-8  px-32">
           { vacancies.map(item => <Vacancy key={nanoid()} title={item.title}/>)}
         </div>
         <Prompt/>
