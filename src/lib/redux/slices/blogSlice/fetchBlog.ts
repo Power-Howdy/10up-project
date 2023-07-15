@@ -1,0 +1,10 @@
+export const fetchBlog = async (): Promise<{ data: [] }> => {
+    const response = await fetch('/api/get-blogs', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' }
+    })
+    const result = await response.json()
+  
+    return result.data
+  }
+  
