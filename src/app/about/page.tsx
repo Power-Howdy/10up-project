@@ -1,6 +1,6 @@
 'use client'
 import React, { useState } from "react"
-import AboutImageText from "../../components/AboutImageText"
+import AboutImageText from "../../components/aboutPage/AboutImageText"
 import {
   useSelector,
   selectAbout

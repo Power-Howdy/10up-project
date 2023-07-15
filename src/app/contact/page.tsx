@@ -1,11 +1,17 @@
+import Checkout from "@/components/contactPage/Checkout";
+import ContactForm from "@/components/contactPage/ContactForm";
+import OurLocation from "@/components/firstPage/OurLocation";
+
 export default function ContactPage() {
     return (
       <>
         <h1>Contact page</h1>
-        <p>
-          This page is intended to verify that Redux state is persisted across
-          page navigations.
-        </p>
+        <div className="w-full px-12">
+
+        </div>
+        <ContactForm/>
+        <Checkout/>
+        <OurLocation/>
       </>
     )
   }

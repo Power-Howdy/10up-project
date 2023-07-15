@@ -1,11 +1,16 @@
+import TopBanner from "@/components/TopBanner"
+import Works from "@/components/workPage/Works"
+import ClientReview from "@/components/firstPage/ClientReview"
+import Prompt from "@/components/Prompt"
+
 export default function WorkPage() {
     return (
       <>
         <h1>Work page</h1>
-        <p>
-          This page is intended to verify that Redux state is persisted across
-          page navigations.
-        </p>
+        <TopBanner imageUrl="" title=""/>
+        <Works/>
+        <ClientReview/>
+        <Prompt/>
       </>
     )
   }

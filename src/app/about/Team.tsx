@@ -9,7 +9,7 @@ import {
     getMemberAsync
 } from '@/lib/redux'
 import { nanoid } from 'nanoid';
-import MemberCard from '@/components/MemberCard';
+import MemberCard from '@/components/aboutPage/MemberCard';
 const Team = () => {
     const dispatch = useDispatch()
     const members = useSelector(selectMembers)

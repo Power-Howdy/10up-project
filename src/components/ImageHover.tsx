@@ -16,6 +16,8 @@ export default function ImageHover(props: Props) {
             />
             <div className='text-white bg-black bg-opacity-50 rounded-full w-full h-full items-center justify-center inset-0 flex flex-col text-4xl hover:visible invisible'>
                 {props.text}
+                <hr/>
+                <span className='italic text-2xl'>Learn more</span>
             </div>
         </div>
     )
