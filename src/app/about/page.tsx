@@ -6,8 +6,8 @@ import {
   selectAbout
 } from '@/lib/redux'
 import { nanoid } from "nanoid"
-import Boundary from "./boundary"
-import Team from "./Team"
+import Boundary from "../../components/aboutPage/boundary"
+import Team from "../../components/aboutPage/Team"
 export default function AboutPage() {
   const abouts = useSelector(selectAbout);
   return (

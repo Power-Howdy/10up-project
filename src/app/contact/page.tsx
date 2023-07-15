@@ -1,6 +1,6 @@
 import Checkout from "@/components/contactPage/Checkout";
 import ContactForm from "@/components/contactPage/ContactForm";
-import OurLocation from "@/components/firstPage/OurLocation";
+import OurLocation from "@/components/OurLocation";
 
 export default function ContactPage() {
     return (
