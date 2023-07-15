@@ -32,6 +32,6 @@ export interface BlogSliceState {
   title: string,
   author: string,
   avatar: string,
-  pciture: string,
+  picture: string,
   content: string
 }

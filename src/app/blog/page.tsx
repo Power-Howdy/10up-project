@@ -2,22 +2,21 @@
 import React, { useState, useEffect } from "react"
 import BlogComponent from "@/components/BlogComponent"
 import { nanoid } from "nanoid"
-export default function BlogPage() {
-  type BlogType = {
-    title: string,
-    author: string,
-    avatar: string,
-    picture: string,
-    content: string
-  }
-  const [blogs, setBlogs] = useState<BlogType[]>([]);
+import {
+  useSelector,
+  useDispatch,
+  selectBlog,
+  getBlogAsync
+} from '@/lib/redux'
 
-  useEffect(() => {
-    //fetch data
-    setBlogs([
-      //
-    ])
-  }, [])
+export default function BlogPage() {
+  //implement using redux-thunk
+  const dispatch = useDispatch()
+    const blogs = useSelector(selectBlog)
+    useEffect(() => {
+        dispatch(getBlogAsync())
+    }, [dispatch]);   
+  
     return (
       <>
         <h1>Blog page</h1>
