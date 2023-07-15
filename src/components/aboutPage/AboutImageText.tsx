@@ -11,7 +11,7 @@ const AboutImageText = (props: Props) => {
     <div>
         <Image width={200} height={200} src={props.imageUrl} className='mx-auto hover:shadow-2xl rounded-full' alt=""/>
         <div className='text-white text-3xl my-5 italic underline underline-offset-8'>{props.title}</div>
-        <div className='text-white text-xs'>{props.content}</div>
+        <div className='text-white text-md'>{props.content}</div>
     </div>
   )
 }
