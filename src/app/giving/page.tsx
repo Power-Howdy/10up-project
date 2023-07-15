@@ -1,3 +1,4 @@
+'use client'
 import TopBanner from "@/components/TopBanner"
 import TextImageBlock from "@/components/TextImageBlock"
 import Prompt from "@/components/Prompt"
@@ -45,9 +46,8 @@ export default function GivingPage() {
   }, [])
   return (
     <>
-      <h1>Giving back</h1>
-      <TopBanner imageUrl="" title="" />
-      <div className="py-8">
+      <TopBanner imageUrl="https://10up.com/wp-content/themes/10up-sept2016/dist/img/givingback/header.jpg" title="Giving Back" />
+      <div>
         {data.map(item => <TextImageBlock key={nanoid()} picturePosition={item.picturePosition} picture={item.picture} title={item.title} content={item.content} />)}
       </div>
       <Comment />
