@@ -1,34 +1,58 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## 10up.com Site Replica Project
 
-First, run the development server:
+For submission to the 10up recruiting team as a code sample, 16/07/2023
+### Words to 10up Recruiting Team
+
+Dear Sir/Madam,
+
+🙂 I am really happy that you gave me this opportunity to display my skills.
+In response to your request, I have developed this project within 48 hours. 
+First of all, I would like to apologize as this is not a fully completed project. 🙇‍♀️
+Due to time constraints, I have implemented only the basic features. 
+I utilized Next.js with Typescript for the development. 
+To simplify state management, I chose to use Redux Thunk. 
+In the Redux Thunk section, I incorporated data fetching asynchronously. 
+I made an effort to keep the components as small as possible by splitting them. 
+Additionally, I utilized various React Hooks such as useState, useEffect, and some customized hooks.
+To ensure code quality, I included automated testing scripts using Cypress, covering both end-to-end and component-based unit testing. 
+Thank you for your time and consideration. 
+I hope that my work meets your requirements. 
+Best Regards,
+Edmond Vitel
+### Development Environment
+
+- Node.js version 16.20.1
+- NPM 8.19.4
+
+### How to run this project
+
+First install npm modules by running
+
+```bash
+npm install
+```
+
+Second start development server by running
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can run Cypress test server by running
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```bash
+npm run cypress
+```
 
-## Learn More
+To deploy this project, you need to bulid this first.
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run build
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+You can use vercel, render.com or other node applicatoin hosting services to deploy this project.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
