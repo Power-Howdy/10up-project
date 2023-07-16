@@ -1,31 +1,32 @@
-describe('The Home Page', () => {
-  it('successfully loads', () => {
+describe('Navigation Check', () => {
+  beforeEach(() => {
+    cy.visit('/')
+  })
+  it('Go to About Page', () => {
     cy.visit('/')
     cy.get('nav > a').contains('About').click()
     cy.url().should('equal', 'http://localhost:3000/about')
-    cy.wait(1000)
-
+  })
+  it('Go to Our Work Page', () => {
 
     cy.get('nav > a').contains('Our work').click()
     cy.url().should('equal', 'http://localhost:3000/work')
-    cy.wait(1000)
-
+  })
+  it('Go to Blog Page', () => {
     cy.get('nav > a').contains('Blog').click()
     cy.url().should('equal', 'http://localhost:3000/blog')
-    cy.wait(1000)
-
+  })
+  it('Go to Career Page', () => {
     cy.get('nav > a').contains('Career').click()
     cy.url().should('equal', 'http://localhost:3000/career')
-    cy.wait(1000)
-
+  })
+  it('Go to Giving back Page', () => {
     cy.get('nav > a').contains('Giving back').click()
     cy.url().should('equal', 'http://localhost:3000/giving')    
-    cy.wait(1000)
-
+  })
+  it('Go to Contact Page', () => {
     cy.get('nav > a').contains('Contact').click()
     cy.url().should('equal', 'http://localhost:3000/contact')
-    cy.wait(1000)
-
   })
 })
 
